@@ -1,0 +1,47 @@
+SABTU,03 JULI 2021
+
+AK   : 7.884.250
+LX   : -
+AI   : 7.884.250
+Q    : 7.884.250
+P    : 7.884.250
+AF   : 7.884.250
+AH   : 7.884.250/7.884.250
+AE   : 7.884.250
+AB   : 7.884.250
+NB   : 7.884.250
+QB   : 7.884.250
+R    : 7.884.250/7.884.250
+NV   : 7.884.250
+
+TATA :AK,AI,Q,P,AF,AH,AH,AE,AB,NB,QB,R,R,NV
+
+-PEMASANGAN PLASTIK WRAP                                  560.000
+
+
+
+
+
+
+SALDO                              109.819.500
+SALDO KMRN                          93.094.500
+JUMLAH                             202.914.000
+
+
+
+
+
+
+
+
+L.O TATA
+02/07  SALDO                   1
+03/07  PENEBUSAN              13
+       JUMLAH                 14
+03/07  ARMADA MSK            -14
+       JUMLAH                  0
+
+NB,AI,AL,AB,P,NV,LX,Q,LK,R,AF,AK,QB,AE
+
+STAPEL TATA    :
+BELUM NGEPLANT : AK,LX,AI,Q,P,AF,AE,R,AB,NB,QB,AL,NV
